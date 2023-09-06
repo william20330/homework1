@@ -1,5 +1,0 @@
-What is a remote repository?
-
-Answer: 
-It is a central online repository that can be seen by all collaborators
-Basically hosted on a server than team members systems to centralize the work done by everybody.
