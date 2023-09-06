@@ -1,0 +1,4 @@
+What is a remote repository?
+
+Answer:
+It is a repository hosted off of your local machine in order to centralize progress and storage
