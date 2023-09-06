@@ -4,3 +4,8 @@ Answer:
 While both work to integrate changes from one branch into another, they are different.
 Git merge is a non-destructive option that preserves existing branches. It also preserves merge history. 
 On the other hand, git rebase moves the entire feature branch to the master branch and rewrites the project history.
+
+What is a remote repository?
+
+Answer:
+It is a repository hosted off of your local machine in order to centralize progress and storage
